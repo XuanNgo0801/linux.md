@@ -5,7 +5,7 @@
 ____________________________
 > ### Lệnh pwd
 >
-Sử dụng lệnh `pwd` để tìm ra đường dẫn của thư mục đang làm việc hiện tại mà bạn đang ở.
+Sử dụng lệnh `pwd` để tìm ra đường dẫn của thư mục đang làm việc hiện tại mà bạn đang ở.<space><space>
 Lệnh này sẽ trả về một đường dẫn tuyệt đối (đầy đủ), về cơ bản là đường dẫn của tất cả các thư mục bắt đầu bằng dấu gạch chéo (/ ) . Ví dụ về đường dẫn tuyệt đối là **/ home / username**
 >Lệnh cd
 >
